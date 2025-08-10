@@ -1,2 +1,1 @@
 # DULRNet
-coming soon
